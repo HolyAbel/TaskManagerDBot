@@ -4,7 +4,7 @@
 Для тестирования использовался 
 **Postman**
 ## Telegram bot
-Ссылка на телеграмм бота - [Task Manager Bot](http://t.me/HSAI23_TaskManager_bot)
+Ссылка на телеграмм бота - [Task Manager Bot](t.me/task_manager_d_bot)
 
 Доступны следующие команды:
 /start - Добавит пользователя и его ID чата в базу данных.
